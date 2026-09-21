@@ -2,10 +2,6 @@
 
 TaskFlow 是一个面向前端面试的团队任务协作平台 MVP，使用 Vue 3、TypeScript、Vite、Pinia、Vue Router、Element Plus 和 Axios 构建。
 
-## 学习与面试材料
-
-学习与面试材料保存在本地 `docs/` 目录中，不随公开仓库发布。
-
 ## 在线演示
 
 [打开 GitHub Pages 演示](https://luchxu.github.io/TaskFlow/)
