@@ -4,8 +4,11 @@ TaskFlow 是一个面向前端面试的团队任务协作平台 MVP，使用 Vue
 
 ## 学习与面试材料
 
-- [项目吃透指南](docs/TASKFLOW_GUIDE.md)：从业务、数据流、架构取舍、异常处理、自测到发布完整理解项目
-- [面试问答](docs/INTERVIEW_QA.md)：口语化回答、常见追问、方案代价和项目诚实边界
+学习与面试材料保存在本地 `docs/` 目录中，不随公开仓库发布。
+
+## 在线演示
+
+[打开 GitHub Pages 演示](https://luchxu.github.io/TaskFlow/)
 
 ## 已实现
 
